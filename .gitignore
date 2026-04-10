@@ -1,0 +1,31 @@
+```
+# Logs and temp files
+*.log
+
+# Models and serialized objects
+*.pkl
+
+# Environment
+.env
+.env.local
+*.env.*
+
+# Dependencies
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build and distribution
+dist/
+build/
+*.egg-info/
+
+# Editors
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+```
